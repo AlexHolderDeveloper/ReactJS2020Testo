@@ -19,9 +19,10 @@ Dummy app to see any changes in WSL ReactJS development after moving to WSL2 and
 8. Ran the command `npm run build` to build a production version of the ReactJS app.
 9. Ran the command `npm test` to see what ReactJS' testing suite is like. It's wicked. Good default behaviour.
 10. Created a Github Actions workflow file to automate building & deployment of the ReactJS app to a Github Pages website.
-11. Committed & pushed app to local & remote repo.
-12. Went into the Github repository settings and enabled Github Pages for the repository. 
-13. Pointed the Github Pages settings to use the files from the branch named `gh-pages` that is made & updated with the Github Actions workflow file. Settings should look like below:
+11. Added the `homepage` property to the project's `package.json` file, using the repository name as the homepage value. For this repo, the key & value is: ` "homepage": "/ReactJS2020Testo"`. The repo name has capital letters due to a mix-up when making the repo before making the ReactJS app. The deployed URL for this website follows the syntax of `githubUsername.github.io/repositoryName`, meaning this website is deployed at `alexholderdeveloper.github.io/ReactJS2020Testo`.
+12. Committed & pushed app to local & remote repo.
+13. Went into the Github repository settings and enabled Github Pages for the repository. 
+14. Pointed the Github Pages settings to use the files from the branch named `gh-pages` that is made & updated with the Github Actions workflow file. Settings should look like below:
 
 ![ReactJSGHPhages](.\_Documentation\Assets\ReactJSGHPhages.png)
 
