@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs2020testo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/reactjs2020testo/static/js/main.70aae26b.chunk.js",
+    "main.js.map": "/reactjs2020testo/static/js/main.70aae26b.chunk.js.map",
+    "runtime-main.js": "/reactjs2020testo/static/js/runtime-main.661f2f78.js",
+    "runtime-main.js.map": "/reactjs2020testo/static/js/runtime-main.661f2f78.js.map",
+    "static/js/2.f09f6a62.chunk.js": "/reactjs2020testo/static/js/2.f09f6a62.chunk.js",
+    "static/js/2.f09f6a62.chunk.js.map": "/reactjs2020testo/static/js/2.f09f6a62.chunk.js.map",
+    "index.html": "/reactjs2020testo/index.html",
+    "precache-manifest.75dabbe3068ed70ff65eba9acf47efc8.js": "/reactjs2020testo/precache-manifest.75dabbe3068ed70ff65eba9acf47efc8.js",
+    "service-worker.js": "/reactjs2020testo/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/reactjs2020testo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f09f6a62.chunk.js.LICENSE.txt": "/reactjs2020testo/static/js/2.f09f6a62.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/reactjs2020testo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.661f2f78.js",
+    "static/js/2.f09f6a62.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.70aae26b.chunk.js"
+  ]
+}
