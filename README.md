@@ -24,7 +24,7 @@ Dummy app to see any changes in WSL ReactJS development after moving to WSL2 and
 13. Went into the Github repository settings and enabled Github Pages for the repository. 
 14. Pointed the Github Pages settings to use the files from the branch named `gh-pages` that is made & updated with the Github Actions workflow file. Settings should look like below:
 
-![ReactJSGHPhages](.\_Documentation\Assets\ReactJSGHPhages.png)
+![ReactJSGHPhages](./_Documentation/Assets/ReactJSGHPhages.png)
 
 
 
