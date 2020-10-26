@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
@@ -10,8 +11,6 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <h1>Bigfoot was here!</h1>
-        {/* Commenting syntax in ReactJS is weird, right? */}
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -20,9 +19,15 @@ function App() {
         >
           Learn React
         </a>
+        <button onClick={buzz} >Tap to buzz!</button>
       </header>
     </div>
   );
+}
+
+function buzz(){
+  window.navigator.vibrate([100,30,100,30,100,30,200,30,200,30,200,30,100,30,100,30,100]); // Vibrate 'SOS' in Morse.
+
 }
 
 export default App;
