@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactJS2020Testo/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ReactJS2020Testo/static/js/main.cf075af5.chunk.js",
-    "main.js.map": "/ReactJS2020Testo/static/js/main.cf075af5.chunk.js.map",
+    "main.js": "/ReactJS2020Testo/static/js/main.7a1376f4.chunk.js",
+    "main.js.map": "/ReactJS2020Testo/static/js/main.7a1376f4.chunk.js.map",
     "runtime-main.js": "/ReactJS2020Testo/static/js/runtime-main.5374961d.js",
     "runtime-main.js.map": "/ReactJS2020Testo/static/js/runtime-main.5374961d.js.map",
     "static/js/2.f09f6a62.chunk.js": "/ReactJS2020Testo/static/js/2.f09f6a62.chunk.js",
     "static/js/2.f09f6a62.chunk.js.map": "/ReactJS2020Testo/static/js/2.f09f6a62.chunk.js.map",
     "index.html": "/ReactJS2020Testo/index.html",
-    "precache-manifest.b3096bb971801fb1e860c668bad34c4f.js": "/ReactJS2020Testo/precache-manifest.b3096bb971801fb1e860c668bad34c4f.js",
+    "precache-manifest.30570d78e78ca567ff812742daafcccb.js": "/ReactJS2020Testo/precache-manifest.30570d78e78ca567ff812742daafcccb.js",
     "service-worker.js": "/ReactJS2020Testo/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/ReactJS2020Testo/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f09f6a62.chunk.js.LICENSE.txt": "/ReactJS2020Testo/static/js/2.f09f6a62.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5374961d.js",
     "static/js/2.f09f6a62.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.cf075af5.chunk.js"
+    "static/js/main.7a1376f4.chunk.js"
   ]
 }
